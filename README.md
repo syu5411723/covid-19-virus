@@ -5,4 +5,4 @@
 ＊現在中国（china）の API 元にデータのバグがあります。
 
 主なスキル
-Typescript,React, Firebase
+Typescript,React,Redux ToolKit,Firebase
